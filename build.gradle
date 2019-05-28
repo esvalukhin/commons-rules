@@ -40,7 +40,7 @@ dependencies {
     if (releaseMode) {
         compile 'com.epam.reportportal:commons-model:4.2.0'
     } else {
-        compile 'com.github.reportportal:commons-model:4.2.0'
+        compile 'com.github.reportportal:commons-model:cd7658a'
     }
 
     compile 'com.google.guava:guava:23.0'
